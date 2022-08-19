@@ -2,7 +2,9 @@
 
 :bulb: Try it yourself -  [here](https://100dayscss.com/days/1/)
 
+:purple_heart: This challenge is initialed by [CodePen](https://100dayscss.com/)
 
+# Challenge list
 
 | DAY | Link | DAY | Link |
 | :---: | :--- | :---: | :--- |
