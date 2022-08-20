@@ -9,7 +9,7 @@
 | DAY | Link | DAY | Link |
 | :---: | :--- | :---: | :--- |
 |  https://github.com/Karmelova/100-Days-CSS-Challenge/issues/1 | :heavy_check_mark: [CHALLENGE](https://100dayscss.com/days/1/) - 100 Days CSS | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/51 | [CHALLENGE](https://100dayscss.com/days/51/) - CSS Counter |
-| https://github.com/Karmelova/100-Days-CSS-Challenge/issues/2 | [CHALLENGE](https://100dayscss.com/days/2/) - Menu Icon | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/52 | [CHALLENGE](https://100dayscss.com/days/52/) - Dot Wave |
+| https://github.com/Karmelova/100-Days-CSS-Challenge/issues/2 | :heavy_check_mark: [CHALLENGE](https://100dayscss.com/days/2/) - Menu Icon | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/52 | [CHALLENGE](https://100dayscss.com/days/52/) - Dot Wave |
 | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/3 | [CHALLENGE](https://100dayscss.com/days/3/) - The Pyramide | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/53 | [CHALLENGE](https://100dayscss.com/days/53/) - Range Slider |
 | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/4 | [CHALLENGE](https://100dayscss.com/days/4/) - Loading | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/54 | [CHALLENGE](https://100dayscss.com/days/54/) - Waves |
 | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/5 | [CHALLENGE](https://100dayscss.com/days/5/) - Statistic | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/55 | [CHALLENGE](https://100dayscss.com/days/55/) - Thermostat |
