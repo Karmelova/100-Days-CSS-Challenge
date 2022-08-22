@@ -11,7 +11,7 @@
 |  https://github.com/Karmelova/100-Days-CSS-Challenge/issues/1 | :heavy_check_mark: [CHALLENGE](https://100dayscss.com/days/1/) - 100 Days CSS | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/51 | [CHALLENGE](https://100dayscss.com/days/51/) - CSS Counter |
 | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/2 | :heavy_check_mark: [CHALLENGE](https://100dayscss.com/days/2/) - Menu Icon | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/52 | [CHALLENGE](https://100dayscss.com/days/52/) - Dot Wave |
 | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/3 | :heavy_check_mark: [CHALLENGE](https://100dayscss.com/days/3/) - The Pyramide | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/53 | [CHALLENGE](https://100dayscss.com/days/53/) - Range Slider |
-| https://github.com/Karmelova/100-Days-CSS-Challenge/issues/4 | [CHALLENGE](https://100dayscss.com/days/4/) - Loading | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/54 | [CHALLENGE](https://100dayscss.com/days/54/) - Waves |
+| https://github.com/Karmelova/100-Days-CSS-Challenge/issues/4 | :heavy_check_mark: [CHALLENGE](https://100dayscss.com/days/4/) - Loading | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/54 | [CHALLENGE](https://100dayscss.com/days/54/) - Waves |
 | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/5 | [CHALLENGE](https://100dayscss.com/days/5/) - Statistic | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/55 | [CHALLENGE](https://100dayscss.com/days/55/) - Thermostat |
 | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/6 | [CHALLENGE](https://100dayscss.com/days/6/) - Profile | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/56 | [CHALLENGE](https://100dayscss.com/days/56/) - Flower |
 | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/7 | [CHALLENGE](https://100dayscss.com/days/7/) - Notifications, Search and Menu | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/57 | [CHALLENGE](https://100dayscss.com/days/57/) - Icosahedron |
@@ -58,53 +58,3 @@
 | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/48 | [CHALLENGE](https://100dayscss.com/days/48/) - 3D Cube | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/98 | [CHALLENGE](https://100dayscss.com/days/98/) - Plopp |
 | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/49 | [CHALLENGE](https://100dayscss.com/days/49/) - CSS Follow | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/99 | [CHALLENGE](https://100dayscss.com/days/99/) - Circle-Square |
 | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/50 | [CHALLENGE](https://100dayscss.com/days/50/) - Easter Egg | https://github.com/Karmelova/100-Days-CSS-Challenge/issues/100 | [CHALLENGE](https://100dayscss.com/days/100/) - Neon Light |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
